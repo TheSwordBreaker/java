@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.project": true,
+        "**/.settings": true
+    },
+    "cSpell.ignoreWords": [
+        "overidng"
+    ],
+    "maven.view": "flat"
+}
